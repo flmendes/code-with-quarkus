@@ -10,7 +10,7 @@ import jakarta.ws.rs.core.MediaType;
 @Path("/hello")
 public class GreetingResource {
 
-    @ConfigProperty(name = "message") 
+    @ConfigProperty(name = "message", defaultValue = "Hello from Quarkus REST") 
     String message;
 
 
