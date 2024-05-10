@@ -12,7 +12,8 @@
       "extensions": [
         "ggrebert.quarkus-snippets",
         "vscjava.vscode-java-pack",
-        "redhat.fabric8-analytics"
+        "redhat.fabric8-analytics",
+        "GitHub.copilot-chat"
       ]
     }
   }
